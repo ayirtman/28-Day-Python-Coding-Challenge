@@ -58,7 +58,7 @@ To get started with this coding challenge, follow the steps below:
 1. Clone this repository to your local machine using the following command:
 
    ```shell
-   git clone <repository_url>
+   git clone https://github.com/ayirtman/28-Day-Python-Coding-Challenge.git
    ```
 2. Change into the cloned directory:
    ```shell
