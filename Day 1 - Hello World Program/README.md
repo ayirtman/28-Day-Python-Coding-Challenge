@@ -24,12 +24,12 @@ Run the python script `day1.py`:
 
 ```bash
 python3 day1.py
-
+```
 ## Solution
 Solutions for this challenge are available in the day1_solution.py and day1_bonus_solution.py files. You can run them the same way:
 
 ```bash
 python3 day1_solution.py
 python3 day1_bonus_solution.py
-
+```
 Remember, it's more beneficial to try to solve the exercise and the bonus yourself before looking at the solutions!
