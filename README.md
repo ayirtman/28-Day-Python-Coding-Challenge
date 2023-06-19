@@ -8,7 +8,7 @@ I have structured this challenge to provide a gradual progression in difficulty,
 
 ## Table of Contents
 
-1. [Day 1: Hello World Program, Variable Types, Input/Output (IO) Operations](#day-1-hello-world-program-variable-types-inputoutput-io-operations)
+1. [Day 1: Hello World Program, Variable Types, Input/Output (IO) Operations](https://github.com/ayirtman/28-Day-Python-Coding-Challenge/tree/main/Day%201%20-%20Hello%20World%20Program)
 2. [Day 2: Control Flow: If-Else Statements, Loops (For and While)](#day-2-control-flow-if-else-statements-loops-for-and-while)
 3. [Day 3: Lists and Tuples](#day-3-lists-and-tuples)
 4. [Day 4: Dictionaries](#day-4-dictionaries)
