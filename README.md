@@ -29,10 +29,10 @@ I have structured this challenge to provide a gradual progression in difficulty,
 19. [Day 19: Introduction to Flask](#day-19-introduction-to-flask)
 20. [Day 20: Expanding Flask Application](#day-20-expanding-flask-application)
 21. [Day 21: Introduction to Unit Testing with PyTest](#day-21-introduction-to-unit-testing-with-pytest)
-22-23. [Days 22-23: Building a Blog Website using Flask and SQLite](#days-22-23-building-a-blog-website-using-flask-and-sqlite)
-24-25. [Days 24-25: Command-line Tool to Scrape and Store Data](#days-24-25-command-line-tool-to-scrape-and-store-data)
-26-27. [Days 26-27: Design and Implement a Basic Contact Management System](#days-26-27-design-and-implement-a-basic-contact-management-system)
-28. [Day 28: Final Project: Simple Machine Learning Model using scikit-learn](#day-28-final-project-simple-machine-learning-model-using-scikit-learn)
+22. [Days 22-23: Building a Blog Website using Flask and SQLite](#days-22-23-building-a-blog-website-using-flask-and-sqlite)
+23. [Days 24-25: Command-line Tool to Scrape and Store Data](#days-24-25-command-line-tool-to-scrape-and-store-data)
+24. [Days 26-27: Design and Implement a Basic Contact Management System](#days-26-27-design-and-implement-a-basic-contact-management-system)
+25. [Day 28: Final Project: Simple Machine Learning Model using scikit-learn](#day-28-final-project-simple-machine-learning-model-using-scikit-learn)
 
 ## Motivation
 
