@@ -1,5 +1,5 @@
 # Day 1 Python Challenge: Hello World, Variable Types, IO Operations
-(Day 1) [./images/day1.jpeg]
+![Day 1](./images/day1.jpeg)
 
 This is the first day of the Python Challenge, focusing on basic Python programming skills including:
 - Printing a hello world statement
