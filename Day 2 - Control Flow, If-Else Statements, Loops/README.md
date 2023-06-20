@@ -1,5 +1,7 @@
 # Day 2 Python Challenge: Control Flow, If-Else Statements, Loops
 
+![Day 2](https://github.com/ayirtman/28-Day-Python-Coding-Challenge/blob/main/images/day2.jpeg)
+
 This is the second day of the Python Challenge, focusing on control flow in Python, including:
 - If-Else statements
 - For and While loops
