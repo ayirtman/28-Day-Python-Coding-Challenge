@@ -1,6 +1,6 @@
 # Day 4 Python Challenge: Dictionaries
 
-![Day 3](https://github.com/ayirtman/28-Day-Python-Coding-Challenge/blob/main/images/day4.jpeg)
+![Day 4](https://github.com/ayirtman/28-Day-Python-Coding-Challenge/blob/main/images/day4.jpeg)
 
 This is the fourth day of the Python Challenge, focusing on working with dictionaries in Python.
 
