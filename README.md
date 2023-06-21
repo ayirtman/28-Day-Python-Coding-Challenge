@@ -11,7 +11,7 @@ I have structured this challenge to provide a gradual progression in difficulty,
 1. [Day 1: Hello World Program, Variable Types, Input/Output (IO) Operations](https://github.com/ayirtman/28-Day-Python-Coding-Challenge/tree/main/Day%201%20-%20Hello%20World%20Program)
 2. [Day 2: Control Flow: If-Else Statements, Loops (For and While)](https://github.com/ayirtman/28-Day-Python-Coding-Challenge/tree/main/Day%202%20-%20Control%20Flow%2C%20If-Else%20Statements%2C%20Loops)
 3. [Day 3: Lists and Tuples](https://github.com/ayirtman/28-Day-Python-Coding-Challenge/tree/main/Day%203%20-%20Lists%20and%20Tuples)
-4. [Day 4: Dictionaries](#day-4-dictionaries)
+4. [Day 4: Dictionaries](https://github.com/ayirtman/28-Day-Python-Coding-Challenge/tree/main/Day%204%20-%20Dictionaries)
 5. [Day 5: Functions](#day-5-functions)
 6. [Day 6: Modules](#day-6-modules)
 7. [Day 7: File IO](#day-7-file-io)
